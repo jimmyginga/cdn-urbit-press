@@ -1,11 +1,11 @@
 {
   "colors": {
-    "primary": "#444",
-    "primaryLight": "#1485b3",
-    "primaryLighter": "#5094f2",
-    "secondary": "#3aa66e",
-    "secondaryLight": "#7dd95e",
-    "secondaryLighter": "#53e3a1",
+    "primary": "#FDB63A",
+    "primaryLight": "#FDC13A",
+    "primaryLighter": "#FA8846",
+    "secondary": "#3AE6FC",
+    "secondaryLight": "#73EEFF",
+    "secondaryLighter": "#81FFFE",
     "tertiary": "#f6e363",
     "tertiaryLight": "#FFF",
     "primaryDark": "#CE61F2",
