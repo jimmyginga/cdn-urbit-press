@@ -1,6 +1,6 @@
 {
     "aboutWe": true,
     "client_name": "Third Earth [test]",
-    "suppress_purchase": false
+    "suppress_purchase": true
 
 }
