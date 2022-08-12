@@ -3,7 +3,8 @@
         "lang_code": "en",
         "content": {
             "header": "Register",
-            "btnSignup": "REGISTER"
+            "btnSignup": "REGISTER",
+            "lnkLogin": "Sign In"
         }
     }
 ]
