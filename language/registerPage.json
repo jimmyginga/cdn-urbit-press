@@ -1,0 +1,10 @@
+[
+    {
+        "lang_code": "en",
+        "content": {
+            "header": "Register",
+            "btnSignup": "REGISTER",
+            "lnkLogin": "Sign In"
+        }
+    }
+]
