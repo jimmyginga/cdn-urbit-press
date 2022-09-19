@@ -1,5 +1,6 @@
 {
-    "aboutWe": true,
-    "client_name": "Third Earth [test]",
-    "suppress_purchase": false
+  "aboutWe": true,
+  "client_name": "Third Earth [test]",
+  "suppress_purchase": false,
+  "client_product_card_preference": "withHero"
 }
